@@ -1,0 +1,29 @@
+.header img{
+    height: 80px;
+}
+.header{
+    text-align: center;
+}
+.header nav{
+    background-color: black;
+    line-height:40px;
+    font-size: 20px;
+}
+nav a{
+    text-decoration: none;
+    color:white;
+    margin-right: 20px;
+    padding: 6px;
+}
+nav a:hover{
+    background-color: gray;
+}
+.search-area{
+    background-color: rgb(31, 30, 30);
+    line-height: 65px;
+}
+.srcBox{
+    width: 80%;
+    height: 22px;
+    font-size: 17px;
+}

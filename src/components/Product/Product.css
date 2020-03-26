@@ -1,0 +1,23 @@
+.product-component{
+    border-bottom:1px solid lightgray;
+    display: flex;
+    padding-bottom: 5px;
+}
+
+.image{
+    margin-right: 15px;
+}
+
+.product-component h1{
+    color: blue;
+    font-size: 20px;
+    font-weight: 400;
+}
+.button{
+    width: 200px;
+    height: 30px;
+    border: 1px solid darkslateblue;
+    border-radius: 5px;
+    background-color: rgb(255, 196, 0);
+    cursor: pointer;
+}
